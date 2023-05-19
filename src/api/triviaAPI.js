@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const KEY = '1Ny8uLW8zABOkj2kImRvwg==BUZTCtCL5rD7Fhen'
+const KEY = 'YOUR_KEY'
 
 export default axios.create({
     baseURL: 'https://api.api-ninjas.com/v1/trivia?',
